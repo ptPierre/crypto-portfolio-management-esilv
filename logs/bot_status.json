@@ -1,27 +1,27 @@
 {
-  "running": true,
+  "running": false,
   "mode": "PAPER_BACKTEST_ACCEL",
   "exchange": "binance",
   "timeframe": "1h",
   "start_date": "2024-01-01",
   "end_date": "2024-06-30",
-  "step": 1761,
+  "step": 1909,
   "max_steps": 1909,
-  "last_update_utc": "2026-01-14T12:22:04Z",
+  "last_update_utc": "2026-01-19T17:00:52Z",
   "rebalance_period": "monthly",
   "dca_rate": 0.05,
   "use_momentum": true,
   "momentum_top_k": 10,
   "momentum_last_top": [
+    "RNDR",
+    "SUI",
     "AVAX",
-    "ALGO",
     "XRP",
-    "BNB",
     "BTC",
-    "ASTR",
-    "AAVE",
     "SOL",
-    "DOT",
-    "MATIC"
+    "ARB",
+    "AAVE",
+    "ASTR",
+    "TAO"
   ]
 }
