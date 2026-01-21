@@ -1,0 +1,38 @@
+{
+  "BTC":   { "base_weight": 0.28,  "min": 0.15,  "max": 0.40 },
+  "ETH":   { "base_weight": 0.22,  "min": 0.10,  "max": 0.35 },
+
+  "SOL":   { "base_weight": 0.04,  "min": 0.01,  "max": 0.10 },
+  "AVAX":  { "base_weight": 0.025, "min": 0.005, "max": 0.06 },
+  "ADA":   { "base_weight": 0.02,  "min": 0.0,   "max": 0.05 },
+  "SUI":   { "base_weight": 0.015, "min": 0.0,   "max": 0.04 },
+  "DOT":   { "base_weight": 0.015, "min": 0.0,   "max": 0.04 },
+  "ASTR":  { "base_weight": 0.01,  "min": 0.0,   "max": 0.02 },
+  "ALGO":  { "base_weight": 0.01,  "min": 0.0,   "max": 0.02 },
+  "TRX":   { "base_weight": 0.015, "min": 0.0,   "max": 0.04 },
+
+  "MATIC": { "base_weight": 0.035, "min": 0.005, "max": 0.08 },
+  "ARB":   { "base_weight": 0.025, "min": 0.0,   "max": 0.06 },
+
+  "AAVE":  { "base_weight": 0.025, "min": 0.0,   "max": 0.06 },
+  "UNI":   { "base_weight": 0.02,  "min": 0.0,   "max": 0.05 },
+
+  "MORPHO":{ "base_weight": 0.01,  "min": 0.0,   "max": 0.03 },
+  "ENA":   { "base_weight": 0.015, "min": 0.0,   "max": 0.04 },
+
+  "TAO":   { "base_weight": 0.025, "min": 0.0,   "max": 0.06 },
+  "RNDR":  { "base_weight": 0.02,  "min": 0.0,   "max": 0.05 },
+  "FIL":   { "base_weight": 0.015, "min": 0.0,   "max": 0.04 },
+
+  "ONDO":  { "base_weight": 0.03,  "min": 0.0,   "max": 0.08 },
+
+  "BNB":   { "base_weight": 0.025, "min": 0.01,  "max": 0.06 },
+  "XRP":   { "base_weight": 0.015, "min": 0.0,   "max": 0.04 },
+  "DOGE":  { "base_weight": 0.015, "min": 0.0,   "max": 0.04 },
+
+  "PENGU": { "base_weight": 0.01,  "min": 0.0,   "max": 0.02 },
+  "PUMP":  { "base_weight": 0.01,  "min": 0.0,   "max": 0.02 },
+  "HYPE":  { "base_weight": 0.005, "min": 0.0,   "max": 0.015 },
+
+  "USDC":  { "base_weight": 0.05,  "min": 0.05,  "max": 0.25 }
+}

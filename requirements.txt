@@ -1,0 +1,7 @@
+pandas
+numpy
+ccxt
+python-dotenv
+dash
+plotly
+scikit-learn
